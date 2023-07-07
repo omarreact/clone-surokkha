@@ -1,0 +1,32 @@
+.navbar {
+  padding: 0;
+}
+.navbar-nav a {
+  color: #4a4a4a;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+}
+.navbar-nav a:hover {
+  color: #00012d;
+}
+.dflt__btn {
+  background-color: #f26d3e !important;
+  border: none !important;
+}
+.dflt__btn:hover {
+  background-color: #ff4300 !important;
+}
+
+@media screen and (max-width: 991px) {
+  .navbar-nav.align-items-center {
+    align-items: flex-start !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  .logo {
+    width: 150px;
+    height: auto;
+  }
+}

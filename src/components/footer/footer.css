@@ -1,0 +1,18 @@
+footer {
+  background: #f26d3e;
+  min-height: 80px;
+  padding: 1rem;
+}
+.list-footer {
+  padding-left: 0px;
+}
+.list-footer li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.list-footer li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
