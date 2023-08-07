@@ -60,13 +60,13 @@ function Card() {
           <div className="row">
             <div className="col-md-3 col-sm-4 app__reg-btn">
               <ListGroup>
-                <ListGroup.Item onClick={handleClick1} action href="#link1">
+                <ListGroup.Item onClick={handleClick1} action href>
                   National ID Card
                 </ListGroup.Item>
-                <ListGroup.Item onClick={handleClick2} action href="#link2">
+                <ListGroup.Item onClick={handleClick2} action href>
                   Birth Reg. Certificate
                 </ListGroup.Item>
-                <ListGroup.Item onClick={handleClick3} action href="#link3">
+                <ListGroup.Item onClick={handleClick3} action href>
                   Passport
                 </ListGroup.Item>
               </ListGroup>
