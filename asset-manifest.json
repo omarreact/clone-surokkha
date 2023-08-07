@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/clone-surokkha/static/css/main.7a13d43a.css",
-    "main.js": "/clone-surokkha/static/js/main.5a46dd56.js",
+    "main.js": "/clone-surokkha/static/js/main.3734a513.js",
     "static/media/Surrokkha Advertisement card.c17bcc5f.jpg": "/clone-surokkha/static/media/Surrokkha Advertisement card.c17bcc5f.d33ca9fb84205217dd74.jpg",
     "static/media/mujib100new.bd925694.png": "/clone-surokkha/static/media/mujib100new.bd925694.f762b2abfcc40693d292.png",
     "static/media/banner-bg.jpg": "/clone-surokkha/static/media/banner-bg.bfe68689101bce89a139.jpg",
     "static/media/org.ed08c793.png": "/clone-surokkha/static/media/org.ed08c793.5e402d4a57d5af9aa681.png",
     "static/media/ict.52410752.png": "/clone-surokkha/static/media/ict.52410752.69554262ce192405e01b.png",
     "static/media/logo.png": "/clone-surokkha/static/media/logo.c9d8fd4e65e5fa1518d2.png",
-    "static/media/logo_white.svg": "/clone-surokkha/static/media/logo_white.0fce7f8916ac0bc97bd8050805427b60.svg",
+    "static/media/logo_white.svg": "/clone-surokkha/static/media/logo_white.4e77e7568297a54473bc3e13aae5bc49.svg",
     "static/media/services3.png": "/clone-surokkha/static/media/services3.3fac86a7a6b395c2b465.png",
     "index.html": "/clone-surokkha/index.html",
     "main.7a13d43a.css.map": "/clone-surokkha/static/css/main.7a13d43a.css.map",
-    "main.5a46dd56.js.map": "/clone-surokkha/static/js/main.5a46dd56.js.map"
+    "main.3734a513.js.map": "/clone-surokkha/static/js/main.3734a513.js.map"
   },
   "entrypoints": [
     "static/css/main.7a13d43a.css",
-    "static/js/main.5a46dd56.js"
+    "static/js/main.3734a513.js"
   ]
 }
